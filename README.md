@@ -9,3 +9,7 @@ https://github.com/DaianeM/repo-nodejs/tree/main/node_crud_simples
 [ 2 ] API rest simples Node.js | Express | Knex | MySql - Crud Alunos; 
 
 https://github.com/DaianeM/repo-nodejs/tree/main/node_api_cadastro
+
+[ 3 ] API rest simples Node.js | Restify | Knex | MySql - Crud Usuário; 
+
+https://github.com/DaianeM/repo-nodejs/tree/main/node_api_restify
