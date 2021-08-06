@@ -17,3 +17,7 @@ https://github.com/DaianeM/repo-nodejs/tree/main/node_api_restify
 [ 4 ] Exemplo de aplicação utilizando Node.js | Express | EJS ( para renderizar páginas HTML); 
 
 https://github.com/DaianeM/repo-nodejs/tree/main/nodejs-ejs
+
+[ 5 ] Exemplo de alguns controles de fluxos importantes: Callback function | Promises | Async Await; 
+
+https://github.com/DaianeM/repo-nodejs/tree/main/controlando-fluxo-aplicacao
