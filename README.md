@@ -21,3 +21,7 @@ https://github.com/DaianeM/repo-nodejs/tree/main/nodejs-ejs
 [ 5 ] Exemplo de alguns controles de fluxos importantes: Callback function | Promises | Async Await; 
 
 https://github.com/DaianeM/repo-nodejs/tree/main/controlando-fluxo-aplicacao
+
+[ 6 ] Compressor de vídeos com Node.js e FFMPEG (Explorando child_process do Node.js) ; 
+
+https://github.com/DaianeM/repo-nodejs/tree/main/compressao-de-videos
