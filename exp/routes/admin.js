@@ -8,7 +8,6 @@ router.get('/', (req, res) => {
 
 router.get('/:id', (req, res) => {
     const { id } = req.params;
-
     res.json({ message: `Seja bem vindo(a), o seu ID é: ${id}` });
 });
 

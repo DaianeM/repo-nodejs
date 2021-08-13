@@ -11,8 +11,8 @@ router.get('/:id', (req, res) => {
 });
 
 router.post('/', (req, res) => {
-    const { user } = req.params;
-    res.json({user});
+    const user = req.body;
+    res.json({ user });
 });
 
 module.exports = router;
