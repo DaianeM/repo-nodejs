@@ -5,6 +5,9 @@ const adminRoutes = require('./routes/admin');
 const userRoutes = require('./routes/user');
 const cookieParser = require('cookie-parser');
 
+//servindo arquivos estáticos
+app.use(express.static('public'));
+
 //exemplo de middleware do express para aceitar req tipo json
 app.use(express.json());
 //acesso aos recursos de cookie - (função de middleware de terceiros)
@@ -47,6 +50,14 @@ app.use('/admin', adminRoutes);
 app.use('/user', logReq, userRoutes);
 
 //função de middleware para tratamento de erros
+
+//forçar erro como exemplo
+// app.get('*', (req, res, next) => {
+//     setImmediate(() => {
+//         next( new Error('Houve um problema.') );
+//     })
+// });
+
 app.use((err, req, res, next)=>{
     console.log(err.stack);
     res.status(500).json({message: err.message});
