@@ -22,6 +22,12 @@ https://github.com/DaianeM/repo-nodejs/tree/main/nodejs-ejs
 
 https://github.com/DaianeM/repo-nodejs/tree/main/controlando-fluxo-aplicacao
 
-[ 6 ] Compressor de vídeos com Node.js e FFMPEG (Explorando child_process do Node.js) ; 
+[ 6 ] Compressor de vídeos com Node.js e FFMPEG ( Explorando child_process do Node.js) ; 
 
 https://github.com/DaianeM/repo-nodejs/tree/main/compressao-de-videos
+
+[ 7 ] Trabalhando com API de Terceiros - Express ( Rotas | Funções de Middleware | Func. de Middleware para Tratamento de Erros | Arquivos Estáticos) ; 
+
+https://github.com/DaianeM/repo-nodejs/tree/main/exp
+
+
